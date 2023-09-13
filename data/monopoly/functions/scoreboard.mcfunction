@@ -11,4 +11,4 @@
 scoreboard objectives add Money dummy "Money"
 
 #Initilize all scoreboards
-scoreboard players reset @a Money
+scoreboard players reset * Money
